@@ -1,0 +1,13 @@
+values = []
+increased = []
+decreased = []
+used =[]
+#variables etc
+
+while True:
+line = file.readline()
+if not line:
+break
+#while loop with break
+
+x = line.strip()
